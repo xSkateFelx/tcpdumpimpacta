@@ -1,0 +1,25 @@
+19:16:54.450040 IP ip-172-18-0-5.ec2.internal.4411 > ec2-52-55-17-101.compute-1.amazonaws.com.50874: Flags [P.], seq 1094794163:1094794239, ack 238471322, win 511, options [nop,nop,TS val 1297596756 ecr 4226798001], length 76
+19:16:54.450091 IP ip-172-18-0-5.ec2.internal.4411 > ec2-52-55-17-101.compute-1.amazonaws.com.50874: Flags [P.], seq 76:161, ack 1, win 511, options [nop,nop,TS val 1297596756 ecr 4226798001], length 85
+19:16:54.452530 IP ec2-52-55-17-101.compute-1.amazonaws.com.50874 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 76, win 254, options [nop,nop,TS val 4226798029 ecr 1297596756], length 0
+19:16:54.452565 IP ec2-52-55-17-101.compute-1.amazonaws.com.50874 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 161, win 254, options [nop,nop,TS val 4226798029 ecr 1297596756], length 0
+19:16:55.442421 IP localhost.40286 > 127.0.0.11.50455: UDP, length 43
+19:16:55.442665 IP ip-172-18-0-5.ec2.internal.53609 > ip-172-30-0-2.ec2.internal.domain: 43399+ PTR? 101.17.55.52.in-addr.arpa. (43)
+19:16:55.451717 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.53609: 43399 1/0/0 PTR ec2-52-55-17-101.compute-1.amazonaws.com. (97)
+19:16:55.451820 IP 127.0.0.11.domain > localhost.40286: 43399 1/0/0 PTR ec2-52-55-17-101.compute-1.amazonaws.com. (97)
+19:16:55.452154 IP localhost.39835 > 127.0.0.11.50455: UDP, length 41
+19:16:55.452589 IP ip-172-18-0-5.ec2.internal.55800 > ip-172-30-0-2.ec2.internal.domain: 62579+ PTR? 5.0.18.172.in-addr.arpa. (41)
+19:16:55.453721 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.55800: 62579 1/0/0 PTR ip-172-18-0-5.ec2.internal. (81)
+19:16:55.453792 IP 127.0.0.11.domain > localhost.39835: 62579 1/0/0 PTR ip-172-18-0-5.ec2.internal. (81)
+19:16:56.263315 IP ip-172-18-0-5.ec2.internal.4411 > ec2-52-55-17-101.compute-1.amazonaws.com.51974: Flags [P.], seq 1447508101:1447508103, ack 2601617065, win 401, options [nop,nop,TS val 1297598570 ecr 4226741497], length 2
+19:16:56.265678 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 2, win 577, options [nop,nop,TS val 4226799842 ecr 1297598570], length 0
+19:16:56.443424 IP localhost.58946 > 127.0.0.11.50455: UDP, length 41
+19:16:56.443664 IP ip-172-18-0-5.ec2.internal.41988 > ip-172-30-0-2.ec2.internal.domain: 7499+ PTR? 11.0.0.127.in-addr.arpa. (41)
+19:16:56.444113 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.41988: 7499 NXDomain* 0/1/0 (91)
+19:16:56.444190 IP 127.0.0.11.domain > localhost.58946: 7499 NXDomain* 0/1/0 (91)
+19:16:56.444354 IP localhost.52925 > 127.0.0.11.50455: UDP, length 41
+19:16:56.444544 IP ip-172-18-0-5.ec2.internal.37725 > ip-172-30-0-2.ec2.internal.domain: 20594+ PTR? 2.0.30.172.in-addr.arpa. (41)
+19:16:56.445535 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.37725: 20594 1/0/0 PTR ip-172-30-0-2.ec2.internal. (81)
+19:16:56.445887 IP 127.0.0.11.domain > localhost.52925: 20594 1/0/0 PTR ip-172-30-0-2.ec2.internal. (81)
+19:16:56.756291 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1:7, ack 2, win 577, options [nop,nop,TS val 4226800335 ecr 1297598570], length 6
+19:16:56.756332 IP ip-172-18-0-5.ec2.internal.4411 > ec2-52-55-17-101.compute-1.amazonaws.com.51974: Flags [.], ack 7, win 401, options [nop,nop,TS val 1297599063 ecr 4226800335], length 0
+
