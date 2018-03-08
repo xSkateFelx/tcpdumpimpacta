@@ -1,0 +1,125 @@
+19:24:15.090072 IP ec2-52-55-17-101.compute-1.amazonaws.com.50092 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 3283084779, win 237, options [nop,nop,TS val 4227238668 ecr 1298037396], length 0
+19:24:15.221416 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.54714: 48497 1/0/0 PTR ip-172-18-0-5.ec2.internal. (81)
+19:24:15.229997 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.36800: 6846 1/0/0 PTR ec2-52-55-17-101.compute-1.amazonaws.com. (97)
+19:24:15.302055 IP ec2-52-55-17-101.compute-1.amazonaws.com.50092 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 0:6, ack 1, win 237, options [nop,nop,TS val 4227238880 ecr 1298037396], length 6
+19:24:16.166834 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 2601628566:2601628598, ack 1447515005, win 712, options [nop,nop,TS val 4227239745 ecr 1298019223], length 32
+19:24:16.167428 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 4, win 712, options [nop,nop,TS val 4227239746 ecr 1298038473], length 0
+19:24:16.222870 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.48751: 45715 1/0/0 PTR ip-172-30-0-2.ec2.internal. (81)
+19:24:16.233010 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 32:64, ack 4, win 712, options [nop,nop,TS val 4227239811 ecr 1298038473], length 32
+19:24:16.233524 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 7, win 712, options [nop,nop,TS val 4227239812 ecr 1298038539], length 0
+19:24:16.412854 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 64:96, ack 7, win 712, options [nop,nop,TS val 4227239991 ecr 1298038539], length 32
+19:24:16.413453 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 10, win 712, options [nop,nop,TS val 4227239992 ecr 1298038719], length 0
+19:24:16.515679 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 96:128, ack 10, win 712, options [nop,nop,TS val 4227240094 ecr 1298038719], length 32
+19:24:16.516279 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 13, win 712, options [nop,nop,TS val 4227240095 ecr 1298038822], length 0
+19:24:16.628784 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 128:160, ack 13, win 712, options [nop,nop,TS val 4227240207 ecr 1298038822], length 32
+19:24:16.629427 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 16, win 712, options [nop,nop,TS val 4227240208 ecr 1298038935], length 0
+19:24:17.992158 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 160:192, ack 16, win 712, options [nop,nop,TS val 4227241571 ecr 1298038935], length 32
+19:24:17.992828 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 22, win 712, options [nop,nop,TS val 4227241571 ecr 1298040299], length 0
+19:24:18.489525 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 192:224, ack 22, win 712, options [nop,nop,TS val 4227242068 ecr 1298040299], length 32
+19:24:18.490230 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 28, win 712, options [nop,nop,TS val 4227242069 ecr 1298040796], length 0
+19:24:18.523885 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 224:256, ack 28, win 712, options [nop,nop,TS val 4227242102 ecr 1298040796], length 32
+19:24:18.556826 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 256:288, ack 34, win 712, options [nop,nop,TS val 4227242135 ecr 1298040830], length 32
+19:24:18.590499 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 288:320, ack 40, win 712, options [nop,nop,TS val 4227242169 ecr 1298040863], length 32
+19:24:18.630184 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 46, win 712, options [nop,nop,TS val 4227242209 ecr 1298040897], length 0
+19:24:18.703819 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 320:416, ack 46, win 712, options [nop,nop,TS val 4227242282 ecr 1298040897], length 96
+19:24:18.704549 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 52, win 712, options [nop,nop,TS val 4227242283 ecr 1298041010], length 0
+19:24:18.704555 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 62, win 712, options [nop,nop,TS val 4227242283 ecr 1298041010], length 0
+19:24:18.738695 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 416:448, ack 62, win 712, options [nop,nop,TS val 4227242317 ecr 1298041010], length 32
+19:24:18.773158 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 448:480, ack 68, win 712, options [nop,nop,TS val 4227242352 ecr 1298041045], length 32
+19:24:18.806211 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 480:512, ack 74, win 712, options [nop,nop,TS val 4227242385 ecr 1298041080], length 32
+19:24:18.823089 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 512:544, ack 80, win 712, options [nop,nop,TS val 4227242402 ecr 1298041113], length 32
+19:24:18.863162 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 86, win 712, options [nop,nop,TS val 4227242442 ecr 1298041130], length 0
+19:24:18.865950 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 544:576, ack 86, win 712, options [nop,nop,TS val 4227242444 ecr 1298041130], length 32
+19:24:18.866472 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 92, win 712, options [nop,nop,TS val 4227242445 ecr 1298041172], length 0
+19:24:18.877649 IP codenvy.io.https > ip-172-18-0-5.ec2.internal.40976: Flags [.], ack 620490968, win 243, options [nop,nop,TS val 4227242456 ecr 1298011198], length 0
+19:24:18.914771 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 576:608, ack 92, win 712, options [nop,nop,TS val 4227242493 ecr 1298041172], length 32
+19:24:18.915385 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 98, win 712, options [nop,nop,TS val 4227242494 ecr 1298041221], length 0
+19:24:18.924121 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 608:640, ack 98, win 712, options [nop,nop,TS val 4227242503 ecr 1298041221], length 32
+19:24:18.959183 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 640:672, ack 104, win 712, options [nop,nop,TS val 4227242538 ecr 1298041231], length 32
+19:24:18.994096 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 672:704, ack 110, win 712, options [nop,nop,TS val 4227242572 ecr 1298041266], length 32
+19:24:19.029156 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 704:736, ack 116, win 712, options [nop,nop,TS val 4227242608 ecr 1298041301], length 32
+19:24:19.059507 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 736:768, ack 122, win 712, options [nop,nop,TS val 4227242638 ecr 1298041336], length 32
+19:24:19.093132 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 768:800, ack 128, win 712, options [nop,nop,TS val 4227242672 ecr 1298041366], length 32
+19:24:19.127602 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 800:832, ack 131, win 712, options [nop,nop,TS val 4227242706 ecr 1298041400], length 32
+19:24:19.163793 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 832:864, ack 134, win 712, options [nop,nop,TS val 4227242742 ecr 1298041434], length 32
+19:24:19.204124 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 137, win 712, options [nop,nop,TS val 4227242783 ecr 1298041470], length 0
+19:24:19.230402 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 864:896, ack 137, win 712, options [nop,nop,TS val 4227242809 ecr 1298041470], length 32
+19:24:19.230860 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 140, win 712, options [nop,nop,TS val 4227242809 ecr 1298041537], length 0
+19:24:19.277424 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 896:928, ack 140, win 712, options [nop,nop,TS val 4227242856 ecr 1298041537], length 32
+19:24:19.277885 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 143, win 712, options [nop,nop,TS val 4227242856 ecr 1298041584], length 0
+19:24:19.294448 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 928:960, ack 143, win 712, options [nop,nop,TS val 4227242873 ecr 1298041584], length 32
+19:24:19.307965 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 960:992, ack 146, win 712, options [nop,nop,TS val 4227242886 ecr 1298041601], length 32
+19:24:19.338314 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 992:1024, ack 149, win 712, options [nop,nop,TS val 4227242917 ecr 1298041614], length 32
+19:24:19.375029 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1024:1056, ack 152, win 712, options [nop,nop,TS val 4227242953 ecr 1298041645], length 32
+19:24:19.406563 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1056:1088, ack 155, win 712, options [nop,nop,TS val 4227242985 ecr 1298041681], length 32
+19:24:19.446224 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 158, win 712, options [nop,nop,TS val 4227243025 ecr 1298041713], length 0
+19:24:19.455287 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1088:1120, ack 158, win 712, options [nop,nop,TS val 4227243034 ecr 1298041713], length 32
+19:24:19.455703 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 161, win 712, options [nop,nop,TS val 4227243034 ecr 1298041762], length 0
+19:24:19.492470 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1120:1152, ack 161, win 712, options [nop,nop,TS val 4227243071 ecr 1298041762], length 32
+19:24:19.509796 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1152:1184, ack 164, win 712, options [nop,nop,TS val 4227243088 ecr 1298041799], length 32
+19:24:19.544078 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1184:1216, ack 167, win 712, options [nop,nop,TS val 4227243122 ecr 1298041816], length 32
+19:24:19.584152 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 170, win 712, options [nop,nop,TS val 4227243163 ecr 1298041851], length 0
+19:24:19.592628 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1216:1248, ack 170, win 712, options [nop,nop,TS val 4227243171 ecr 1298041851], length 32
+19:24:19.593087 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 173, win 712, options [nop,nop,TS val 4227243172 ecr 1298041899], length 0
+19:24:19.609840 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1248:1280, ack 173, win 712, options [nop,nop,TS val 4227243188 ecr 1298041899], length 32
+19:24:19.643327 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1280:1312, ack 176, win 712, options [nop,nop,TS val 4227243222 ecr 1298041916], length 32
+19:24:19.683208 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 179, win 712, options [nop,nop,TS val 4227243262 ecr 1298041950], length 0
+19:24:19.688664 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1312:1344, ack 179, win 712, options [nop,nop,TS val 4227243267 ecr 1298041950], length 32
+19:24:19.689321 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 182, win 712, options [nop,nop,TS val 4227243268 ecr 1298041995], length 0
+19:24:19.721579 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1344:1376, ack 182, win 712, options [nop,nop,TS val 4227243300 ecr 1298041995], length 32
+19:24:19.761202 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 185, win 712, options [nop,nop,TS val 4227243340 ecr 1298042028], length 0
+19:24:20.115266 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1376:1408, ack 185, win 712, options [nop,nop,TS val 4227243694 ecr 1298042028], length 32
+19:24:20.115946 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 188, win 712, options [nop,nop,TS val 4227243694 ecr 1298042422], length 0
+19:24:20.165591 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1408:1440, ack 188, win 712, options [nop,nop,TS val 4227243744 ecr 1298042422], length 32
+19:24:20.166078 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 191, win 712, options [nop,nop,TS val 4227243744 ecr 1298042472], length 0
+19:24:20.349071 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1440:1472, ack 191, win 712, options [nop,nop,TS val 4227243927 ecr 1298042472], length 32
+19:24:20.349711 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 194, win 712, options [nop,nop,TS val 4227243928 ecr 1298042656], length 0
+19:24:20.460988 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1472:1504, ack 194, win 712, options [nop,nop,TS val 4227244039 ecr 1298042656], length 32
+19:24:20.461688 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 197, win 712, options [nop,nop,TS val 4227244040 ecr 1298042768], length 0
+19:24:20.556683 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1504:1536, ack 197, win 712, options [nop,nop,TS val 4227244135 ecr 1298042768], length 32
+19:24:20.557240 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 200, win 712, options [nop,nop,TS val 4227244136 ecr 1298042863], length 0
+19:24:20.758454 IP ec2-52-55-17-101.compute-1.amazonaws.com.50344 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 1070041676, win 237, options [nop,nop,TS val 4227244337 ecr 1298043064], length 0
+19:24:20.966713 IP ec2-52-55-17-101.compute-1.amazonaws.com.50344 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 0:6, ack 1, win 237, options [nop,nop,TS val 4227244545 ecr 1298043064], length 6
+19:24:21.127556 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1536:1568, ack 200, win 712, options [nop,nop,TS val 4227244706 ecr 1298042863], length 32
+19:24:21.128220 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 203, win 712, options [nop,nop,TS val 4227244707 ecr 1298043434], length 0
+19:24:21.221291 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1568:1600, ack 203, win 712, options [nop,nop,TS val 4227244800 ecr 1298043434], length 32
+19:24:21.221966 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 206, win 712, options [nop,nop,TS val 4227244800 ecr 1298043528], length 0
+19:24:21.425630 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1600:1632, ack 206, win 712, options [nop,nop,TS val 4227245004 ecr 1298043528], length 32
+19:24:21.426242 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 209, win 712, options [nop,nop,TS val 4227245005 ecr 1298043732], length 0
+19:24:21.594704 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1632:1664, ack 209, win 712, options [nop,nop,TS val 4227245173 ecr 1298043732], length 32
+19:24:21.595318 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 212, win 712, options [nop,nop,TS val 4227245174 ecr 1298043901], length 0
+19:24:21.721387 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1664:1696, ack 212, win 712, options [nop,nop,TS val 4227245300 ecr 1298043901], length 32
+19:24:21.722004 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 215, win 712, options [nop,nop,TS val 4227245300 ecr 1298044028], length 0
+19:24:21.820477 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1696:1728, ack 215, win 712, options [nop,nop,TS val 4227245399 ecr 1298044028], length 32
+19:24:21.821147 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 218, win 712, options [nop,nop,TS val 4227245400 ecr 1298044127], length 0
+19:24:21.892101 IP ec2-52-55-17-101.compute-1.amazonaws.com.36448 > ip-172-18-0-5.ec2.internal.4401: Flags [P.], seq 1014095079:1014095090, ack 238072281, win 245, options [nop,nop,TS val 4227245470 ecr 1297994297], length 11
+19:24:21.893321 IP ec2-52-55-17-101.compute-1.amazonaws.com.36448 > ip-172-18-0-5.ec2.internal.4401: Flags [.], ack 8, win 245, options [nop,nop,TS val 4227245472 ecr 1298044199], length 0
+19:24:21.917194 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1728:1760, ack 218, win 712, options [nop,nop,TS val 4227245496 ecr 1298044127], length 32
+19:24:21.917835 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 221, win 712, options [nop,nop,TS val 4227245496 ecr 1298044224], length 0
+19:24:22.030656 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1760:1792, ack 221, win 712, options [nop,nop,TS val 4227245609 ecr 1298044224], length 32
+19:24:22.031343 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 224, win 712, options [nop,nop,TS val 4227245610 ecr 1298044337], length 0
+19:24:22.143396 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1792:1824, ack 224, win 712, options [nop,nop,TS val 4227245722 ecr 1298044337], length 32
+19:24:22.144002 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 227, win 712, options [nop,nop,TS val 4227245722 ecr 1298044450], length 0
+19:24:22.232593 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1824:1856, ack 227, win 712, options [nop,nop,TS val 4227245811 ecr 1298044450], length 32
+19:24:22.233255 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 230, win 712, options [nop,nop,TS val 4227245812 ecr 1298044539], length 0
+19:24:22.434453 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1856:1889, ack 230, win 712, options [nop,nop,TS val 4227246013 ecr 1298044539], length 33
+19:24:22.435053 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 234, win 712, options [nop,nop,TS val 4227246013 ecr 1298044741], length 0
+19:24:22.573377 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.45076: 37673 1/0/0 A 200.147.67.142 (44)
+19:24:22.574184 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 292, win 712, options [nop,nop,TS val 4227246153 ecr 1298044880], length 0
+19:24:22.708766 IP 200-147-67-142.static.uol.com.br > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 956, seq 1, length 64
+19:24:23.011101 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.58451: 9675 1/0/0 PTR 200-147-67-142.static.uol.com.br. (91)
+19:24:23.011906 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 391, win 712, options [nop,nop,TS val 4227246590 ecr 1298045318], length 0
+19:24:23.236091 IP ip-172-30-0-2.ec2.internal.domain > ip-172-18-0-5.ec2.internal.57051: 33524 1/0/0 PTR 200-147-67-142.static.uol.com.br. (91)
+19:24:23.585661 IP ec2-52-55-17-101.compute-1.amazonaws.com.50466 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 738200902, win 237, options [nop,nop,TS val 4227247164 ecr 1298045891], length 0
+19:24:23.708976 IP 200-147-67-142.static.uol.com.br > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 956, seq 2, length 64
+19:24:23.709578 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 490, win 712, options [nop,nop,TS val 4227247288 ecr 1298046015], length 0
+19:24:23.793130 IP ec2-52-55-17-101.compute-1.amazonaws.com.50466 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 0:6, ack 1, win 237, options [nop,nop,TS val 4227247372 ecr 1298045891], length 6
+19:24:24.710070 IP 200-147-67-142.static.uol.com.br > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 956, seq 3, length 64
+19:24:24.710701 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 589, win 712, options [nop,nop,TS val 4227248289 ecr 1298047016], length 0
+19:24:25.710243 IP 200-147-67-142.static.uol.com.br > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 956, seq 4, length 64
+19:24:25.710765 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 688, win 712, options [nop,nop,TS val 4227249289 ecr 1298048017], length 0
+19:24:25.991496 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [P.], seq 1889:1926, ack 688, win 712, options [nop,nop,TS val 4227249570 ecr 1298048017], length 37
+19:24:25.991979 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 692, win 712, options [nop,nop,TS val 4227249570 ecr 1298048298], length 0
+19:24:25.992473 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 855, win 735, options [nop,nop,TS val 4227249571 ecr 1298048298], length 0
+19:24:25.992834 IP ec2-52-55-17-101.compute-1.amazonaws.com.51974 > ip-172-18-0-5.ec2.internal.4411: Flags [.], ack 949, win 735, options [nop,nop,TS val 4227249571 ecr 1298048299], length 0
+
