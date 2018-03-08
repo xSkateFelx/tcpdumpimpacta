@@ -1,0 +1,9 @@
+19:26:37.331271 IP ip-172-18-0-5.ec2.internal > b.resolvers.Level3.net: ICMP echo request, id 974, seq 2, length 64
+19:26:37.350218 IP b.resolvers.Level3.net > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 974, seq 2, length 64
+19:26:38.332336 IP ip-172-18-0-5.ec2.internal > b.resolvers.Level3.net: ICMP echo request, id 974, seq 3, length 64
+19:26:38.351167 IP b.resolvers.Level3.net > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 974, seq 3, length 64
+19:26:39.333926 IP ip-172-18-0-5.ec2.internal > b.resolvers.Level3.net: ICMP echo request, id 974, seq 4, length 64
+19:26:39.352714 IP b.resolvers.Level3.net > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 974, seq 4, length 64
+19:26:40.335296 IP ip-172-18-0-5.ec2.internal > b.resolvers.Level3.net: ICMP echo request, id 974, seq 5, length 64
+19:26:40.354140 IP b.resolvers.Level3.net > ip-172-18-0-5.ec2.internal: ICMP echo reply, id 974, seq 5, length 64
+
