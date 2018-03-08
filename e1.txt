@@ -1,0 +1,11 @@
+19:34:27.172293 IP ip-172-18-0-5.ec2.internal.50000 > webafs624.cern.ch.http: Flags [S], seq 4109053196, win 29200, options [mss 1460,sackOK,TS val 1298649479 ecr 0,nop,wscale 7], length 0
+19:34:27.294218 IP webafs624.cern.ch.http > ip-172-18-0-5.ec2.internal.50000: Flags [S.], seq 1174902694, ack 4109053197, win 14480, options [mss 1460,sackOK,TS val 3756017720 ecr 1298649479,nop,wscale 7], length 0
+19:34:27.294261 IP ip-172-18-0-5.ec2.internal.50000 > webafs624.cern.ch.http: Flags [.], ack 1, win 229, options [nop,nop,TS val 1298649601 ecr 3756017720], length 0
+19:34:27.294649 IP ip-172-18-0-5.ec2.internal.50000 > webafs624.cern.ch.http: Flags [P.], seq 1:265, ack 1, win 229, options [nop,nop,TS val 1298649601 ecr 3756017720], length 264: HTTP: GET /hypertext/WWW/TheProject.html HTTP/1.0
+19:34:27.416494 IP webafs624.cern.ch.http > ip-172-18-0-5.ec2.internal.50000: Flags [.], ack 265, win 122, options [nop,nop,TS val 3756017843 ecr 1298649601], length 0
+19:34:27.417076 IP webafs624.cern.ch.http > ip-172-18-0-5.ec2.internal.50000: Flags [P.], seq 1:2460, ack 265, win 122, options [nop,nop,TS val 3756017843 ecr 1298649601], length 2459: HTTP: HTTP/1.1 200 OK
+19:34:27.417088 IP ip-172-18-0-5.ec2.internal.50000 > webafs624.cern.ch.http: Flags [.], ack 2460, win 267, options [nop,nop,TS val 1298649723 ecr 3756017843], length 0
+19:34:27.417096 IP webafs624.cern.ch.http > ip-172-18-0-5.ec2.internal.50000: Flags [F.], seq 2460, ack 265, win 122, options [nop,nop,TS val 3756017843 ecr 1298649601], length 0
+19:34:27.418660 IP ip-172-18-0-5.ec2.internal.50000 > webafs624.cern.ch.http: Flags [F.], seq 265, ack 2461, win 267, options [nop,nop,TS val 1298649725 ecr 3756017843], length 0
+19:34:27.540424 IP webafs624.cern.ch.http > ip-172-18-0-5.ec2.internal.50000: Flags [.], ack 266, win 122, options [nop,nop,TS val 3756017966 ecr 1298649725], length 0
+
